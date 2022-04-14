@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **CyberSecurity and Networking**
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 Currently learning **App Development**
 
-- 👯 I’m looking to collaborate on **WebDevelopment**
+- 👯 Looking Forward to collaborate on **WebDevelopment**
 
-- 📫 How to reach me **shalabhdevliyal@gmail.com**
+- 📫 Feel free to drop :- **shalabhdevliyal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
