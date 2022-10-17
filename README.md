@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalabhdevliyal&label=Profile%20views&color=0e75b6&style=flat" alt="shalabhdevliyal" /> </p>
 
-- 🔭 I’m currently working on **CyberSecurity and Networking**
+- 🔭 I’m currently Exploring **CyberSecurity and Networking**
 
-- 🌱 Currently learning **App Development**
+- 🌱 Learning **Exploit Development**
 
 - 👯 Looking Forward to collaborate on **WebDevelopment**
 
