@@ -8,7 +8,7 @@
 
 - 🌱 Learning **Exploit Development**
 
-- 👯 Looking Forward to collaborate on **Cybersecurity**
+- 👯 Looking Forward to collaborate on **Cyber projects**
 
 - 📫 Feel free to drop :- **shalabhdevliyal@gmail.com**
 
