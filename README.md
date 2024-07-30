@@ -16,6 +16,15 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalabh-devliyal-46bb811b9) 
 
+## Certifications and Badges
+**--> CEH Ec-Council**:https://aspen.eccouncil.org/VerifyBadge?type=certification&a=2BarWenpepH8oCfn3VB/T3yZzkPP/QHtXBUnNmdRHZ4=
+**--> API Security Fundamentals**:https://www.credly.com/badges/0e7fb082-2c39-4f8f-9e87-d4371c3d6464/public_url
+**--> CCNA: Introduction to Networks**:https://www.credly.com/badges/df42c573-edb0-405c-b8f8-fa99992590ec/public_url
+**--> Introduction to Cybersecurity**:https://www.credly.com/badges/e0345573-7530-4fcd-af0c-79eaccf3c4fa/public_url
+**--> Cybersecurity Essentials**:https://www.credly.com/badges/9ba117e3-22c8-4dfe-97e5-ad1b9639d1c4/public_url
+**--> Cybersecurity Fundamentals**:https://www.credly.com/badges/6ebeded5-1ba7-4808-a165-3be49bf9d606/public_url
+**--> ISC2 Candidate**:https://www.credly.com/badges/2d299b21-2778-47f2-81ff-8ad5703e225a/public_url
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
@@ -24,7 +33,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shalabhdevliyal&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0e7fb082-2c39-4f8f-9e87-d4371c3d6464" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 [![@virusxd's Holopin board](https://holopin.me/virusxd)](https://holopin.io/@virusxd)
