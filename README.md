@@ -26,4 +26,5 @@
 ---
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0e7fb082-2c39-4f8f-9e87-d4371c3d6464" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 [![@virusxd's Holopin board](https://holopin.me/virusxd)](https://holopin.io/@virusxd)
