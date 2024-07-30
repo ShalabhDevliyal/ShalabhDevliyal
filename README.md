@@ -6,15 +6,14 @@
 
 - 🔭 I’m currently Exploring **CyberSecurity and Networking**
 
-- 🌱 Learning **Exploit Development**
+- 🌱 Learning **Api Security**
 
-- 👯 Looking Forward to collaborate on **Cyber projects**
+- 👯 Looking Forward to collaborate on **Pentesting and Bug Hunting projects**
 
 - 📫 Feel free to drop :- **shalabhdevliyal@gmail.com**
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@real_life_god_911) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalabh-devliyal-46bb811b9) 
 
 # 💻 Tech Stack:
